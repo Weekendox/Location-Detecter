@@ -10,17 +10,17 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#252930 50%, #5372F0 50%);
+  background: linear-gradient(#252930 50%, #f05360 50%);
 }
 ::selection{
   color: #fff;
-  background: #5372F0;
+  background: #f05360;
 }
 button{
   border: none;
   outline: none;
   font-size: 50px;
-  color: #5372F0;
+  color: #ff1c4d;
   padding: 23px 44px;
   border-radius: 10px;
   cursor: pointer;
